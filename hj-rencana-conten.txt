@@ -3,7 +3,10 @@ RENCAN KONTEN HJ
 - Javascript
   * ES6
   * Framework Js
+    ^ Vue
 - Fundamental Data Structure
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlog
+- Python
