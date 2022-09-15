@@ -3,6 +3,7 @@ RENCAN KONTEN HJ
 - Javascript
   * ES6
   * Framework Js
+- Fundamental Data Structure
 - PHP Framework
 - Interview
 - Vlog
