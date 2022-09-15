@@ -1,6 +1,8 @@
 RENCAN KONTEN HJ
 
 - Javascript
+  * ES6
+  * Framework Js
 - PHP Framework
 - Interview
 - Vlog
